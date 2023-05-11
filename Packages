@@ -11,3 +11,31 @@ Section: Tweaks
 Description: Toggle mute switch to invoke Safe Mode!
 Author: ETHN <ethanwhited2208@gmail.com>
 Name: SafeModeMuteToggle
+
+Package: com.icraze.screentimebegone
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: pyriteee <bbp0x3ff@courvix.com>
+Filename: /ScreenTimeBeGone.deb
+Size: 3964
+MD5sum: 55ee2c0805f31ae78827334694c5d0dd
+SHA1: 985a02a8d37e42cecde419f5464ced903c7ff1a1
+SHA256: 876e8d0b0eb856b9a88cc119d12f5888dc4bd66871cd9c7ccdbc6b2761db29dc
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: iCraze <icrazeios@protonmail.com>
+Name: ScreenTimeBeGone
+
+Package: com.icraze.hestia
+Version: 1.7.1b1
+Architecture: iphoneos-arm
+Maintainer: pyriteee <bbp0x3ff@courvix.com>
+Filename: /Hestia.deb
+Size: 337132
+MD5sum: 414cc697c18bc9e6fef5ee57761b135b
+SHA1: 0b1f9168cbe7489554e3f472bf2de38bfd765a19
+SHA256: 86f853277e5e791340d793c568a8ab648b509ee5301f02fdcc69c73a55c2f12b
+Section: Tweaks
+Description: Global jailbreak detection bypass.
+Author: iCraze <icrazeios@protonmail.com>
+Name: Hestia
