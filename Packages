@@ -13,20 +13,6 @@ Author: ETHN <ethanwhited2208@gmail.com>
 Name: SafeModeMuteToggle
 
 Package: com.icraze.screentimebegone
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: pyriteee <bbp0x3ff@courvix.com>
-Filename: /ScreenTimeBeGoneRootless.deb
-Size: 3964
-MD5sum: 55ee2c0805f31ae78827334694c5d0dd
-SHA1: 985a02a8d37e42cecde419f5464ced903c7ff1a1
-SHA256: 876e8d0b0eb856b9a88cc119d12f5888dc4bd66871cd9c7ccdbc6b2761db29dc
-Section: Tweaks
-Description: Rootless version of ScreenTimeBeGone
-Author: iCraze <icrazeios@protonmail.com>
-Name: ScreenTimeBeGone
-
-Package: com.icraze.screentimebegone
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: pyriteee <bbp0x3ff@courvix.com>
