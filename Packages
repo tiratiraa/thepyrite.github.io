@@ -1,0 +1,13 @@
+Package: com.nahtedetihw.safemodemutetoggle
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: pyriteee <bbp0x3ff@courvix.com>
+Filename: /SafeModeMuteToggle.deb
+Size: 8588
+MD5sum: dc578f1ec9b3579bd06083ebf37b8638
+SHA1: 09e83c1a0759a75aba76d83c171988c81b6b1bdd
+SHA256: b7e0259bfb8ef1044cb5b55a06868be506d556a62e47a36b60224fb410d5d63e
+Section: Tweaks
+Description: Toggle mute switch to invoke Safe Mode!
+Author: ETHN <ethanwhited2208@gmail.com>
+Name: SafeModeMuteToggle
