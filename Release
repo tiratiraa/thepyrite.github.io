@@ -3,6 +3,6 @@ Label: pyriteee's repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm, darwin-amd64
 Components: main
 Description: pyriteee's repo
