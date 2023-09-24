@@ -1,1 +1,1 @@
-shitty rootful repo with useless tweaks.
+rootful repo with useless tweaks.
